@@ -6,4 +6,5 @@ members = [
     "stl",
     "loops",
     "nested-loops",
+    "multiple-dimensions-array",
 ]

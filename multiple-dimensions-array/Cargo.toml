@@ -1,5 +1,5 @@
 [package]
-name = "arrays"
+name = "multiple-dimensions-array"
 version = "0.1.0"
 authors = ["shota-tsuji <shotatuzi@gmail.com>"]
 edition = "2018"
