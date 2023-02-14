@@ -7,4 +7,5 @@ members = [
     "loops",
     "nested-loops",
     "multiple-dimensions-array",
+    "abs",
 ]
